@@ -5,8 +5,7 @@
 --               actual data types, relational keys, and check criteria.
 -- =========================================================================
 
--- Create Database
-CREATE DATABASE football_ticket_booking;
+
 
 -- DROP TABLES IF THEY ALREADY EXIST TO PREVENT CONFLICTS
 DROP TABLE IF EXISTS Bookings;
